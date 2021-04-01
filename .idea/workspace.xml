@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22b4d653-d66c-4db7-b32b-9a8ff9ae8312" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="annualresignLicense" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="annualresignLicense" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="annualresignLicense" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="annualresignLicense" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q7VRq6MQ3dIJwVGuEqQMiOJ7qn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.automatedlogic.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Users\AstutiTr\Documents\SIGN-LICENSE-PROJECT\withLoopPath\annualresignLicense" />
+      <recent name="C:\Users\AstutiTr\Documents\SIGN-LICENSE-PROJECT\withLoopPath\annualresignLicense\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainApp">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.automatedlogic.MainApp" />
+      <module name="annualresignLicense.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automatedlogic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="annualresignLicense [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="annualresignLicense [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+        <item itemvalue="Gradle.annualresignLicense [build]" />
+        <item itemvalue="Gradle.annualresignLicense [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22b4d653-d66c-4db7-b32b-9a8ff9ae8312" name="Default Changelist" comment="" />
+      <created>1616430611090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616430611090</updated>
+      <workItem from="1616430612309" duration="7364000" />
+      <workItem from="1616440894112" duration="204000" />
+      <workItem from="1616441669683" duration="1996000" />
+      <workItem from="1616448784691" duration="79000" />
+      <workItem from="1616454741653" duration="611000" />
+      <workItem from="1616455465498" duration="878000" />
+      <workItem from="1616456376344" duration="9000" />
+      <workItem from="1616503123966" duration="169000" />
+      <workItem from="1616503324093" duration="261000" />
+      <workItem from="1616503658628" duration="4818000" />
+      <workItem from="1616510062229" duration="11927000" />
+      <workItem from="1616546551574" duration="66000" />
+      <workItem from="1616595682240" duration="1378000" />
+      <workItem from="1616942449976" duration="1404000" />
+      <workItem from="1617028957422" duration="7692000" />
+      <workItem from="1617050523553" duration="7000" />
+      <workItem from="1617109298854" duration="314000" />
+      <workItem from="1617116002354" duration="4000" />
+      <workItem from="1617116204762" duration="33000" />
+      <workItem from="1617116588592" duration="202000" />
+      <workItem from="1617117050270" duration="48000" />
+      <workItem from="1617118215525" duration="82000" />
+      <workItem from="1617120423148" duration="175000" />
+      <workItem from="1617122085643" duration="111000" />
+      <workItem from="1617122404316" duration="425000" />
+      <workItem from="1617131667400" duration="84000" />
+      <workItem from="1617131877099" duration="76000" />
+      <workItem from="1617194260418" duration="45000" />
+      <workItem from="1617195114729" duration="845000" />
+      <workItem from="1617285156875" duration="3785000" />
+      <workItem from="1617289731874" duration="522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bat" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1617287627155">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1617287627155" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1617287627154">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1617287627154" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1617287627153">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1617287627153" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1617287627154">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1617287627154" />
+    <state x="219" y="87" key="SettingsEditor" timestamp="1617285503668">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="219" y="87" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1617285503668" />
+    <state x="570" y="455" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1617290251606">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="570" y="455" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1617290251606" />
+  </component>
+</project>
